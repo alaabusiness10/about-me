@@ -1,1 +1,3 @@
-a
+ Phase 1: Repo setup
+ Phase 2: Commits
+ Phase 3: Branching
