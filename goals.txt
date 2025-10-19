@@ -1,2 +1,5 @@
-i want to learn git basics branching remotes 
+i want to learn
+ git basics
+ branching
+ remotes 00
 
