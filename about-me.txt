@@ -3,5 +3,5 @@ name alaa
 univesity tcc 
 what i want to learn git 
 fav programing language c#
-one thing i know about git the commits 
+one thing i know about git the commit
 i enjoy both teamwork and solo work depending on the tasks
