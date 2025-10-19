@@ -1,4 +1,4 @@
-i want to learn
+i want to learn about 
  git basics
  branching
  remotes 
