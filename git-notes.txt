@@ -1,0 +1,10 @@
+
+- What is a commit?
+ a commits is a snapshot of changes saved in the Git history
+- What is a branch? 
+a branch is a separate line of development used to isolate changes
+- What is a conflic ?
+when two branches have changes in the same part
+- Difference between add and commit?
+add stagess changes 
+commit saves the staged changes to the repository history
