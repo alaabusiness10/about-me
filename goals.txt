@@ -1,5 +1,5 @@
 i want to learn about 
- git basics
- branching
- remotes 
+ -git basics
+ -branching
+ -remotes 
 
