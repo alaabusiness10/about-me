@@ -1,0 +1,9 @@
+ What is a commit?  
+  A commit saves changes to the repository with a message describing what was changed.
+ What is a branch?  
+  A branch is a separate line of development used to work on features or fixes without affecting the main code.
+ What is a conflict?  
+  A conflict happens when Git can't automatically merge changes because two edits affect the same part of a file.
+ Difference between add and commit?  
+  git add stages changes, preparing them for commit.  
+  git commit saves those staged changes to the repository.
